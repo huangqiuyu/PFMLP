@@ -6,9 +6,9 @@
 
 
 <p align="middle">
-  <img src="figures/pfmlp.pdf" height="300" />
+  <img src="figures/pfmlp.png" height="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="figures/flops_acc.pdf" height="300" />
+  <img src="figures/flops_acc.png" height="300" />
 </p>
 
 
